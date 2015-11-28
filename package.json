@@ -1,0 +1,11 @@
+{
+  "author":"Duy Nguyen",
+  "name":"censorify",
+  "version":"1.0.0",
+  "description":"description cho vui",
+  "main":"censortext",
+  "dependencies":{},
+  "engines":{
+    "node":"*"
+  }
+}
